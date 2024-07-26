@@ -6475,11 +6475,11 @@
       "details": "version/b1.9-pre5.json"
     },
     {
-      "id": "b1.9-pre4-201110131440",
+      "id": "b1.9-pre4-1440",
       "type": "old_beta",
-      "url": "version/manifest/b1.9-pre4-201110131440.json",
+      "url": "version/manifest/b1.9-pre4-1440.json",
       "releaseTime": "2011-10-13T14:40:58+00:00",
-      "details": "version/b1.9-pre4-201110131440.json"
+      "details": "version/b1.9-pre4-1440.json"
     },
     {
       "id": "b1.9-pre4-201110131434",
